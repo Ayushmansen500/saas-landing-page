@@ -17,13 +17,20 @@ const Download = () => {
                   src="/images/xora.svg"
                   width={160}
                   height={55}
-                  alt="xora"
+                  alt="CloudDevOpsHub"
                 />
               </div>
 
+              <p className="body-1 mb-6 max-w-md">
+                Crack <strong>15–40+ LPA High Package Jobs</strong> with
+                industry-ready skills.
+              </p>
+
               <p className="body-1 mb-10 max-w-md">
-                Try it now for free on iOS, Android, PC, Web - whatever your
-                flavor, we've got you covered.
+                Transform your career in just <strong>55 days</strong> with
+                <strong> 100% live, interactive sessions</strong>. Master
+                <strong> AWS, Azure, GCP, DevOps & AI</strong> and get prepared
+                for top MNC roles.
               </p>
 
               <ul className="flex flex-wrap items-center gap-6">
@@ -62,7 +69,7 @@ const Download = () => {
                     src="/images/screen.jpg"
                     width={855}
                     height={655}
-                    alt="screen"
+                    alt="CloudDevOpsHub learning platform"
                     className="rounded-xl"
                   />
                 </div>
@@ -82,4 +89,5 @@ const Download = () => {
     </section>
   );
 };
+
 export default Download;
