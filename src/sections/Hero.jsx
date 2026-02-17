@@ -8,17 +8,24 @@ const Hero = () => {
         <div className="container">
           <div className="relative z-2 max-w-512 max-lg:max-w-388">
             <div className="caption small-2 uppercase text-p3">
-              Video Editing
+              Crack High Package DevOps Jobs
             </div>
+
             <h1 className="mb-6 h1 text-p4 uppercase max-lg:mb-7 max-lg:h2 max-md:mb-4 max-md:text-5xl max-md:leading-12">
-              Amazingly simple
+              Transform Your Career in 55 Days
             </h1>
+
             <p className="max-w-440 mb-14 body-1 max-md:mb-10">
-              We designed XORA AI Video Editor to be an easy to use, quick to
-              learn, and surprisingly powerful.
+              Master <strong>AWS, Azure, GCP, DevOps & AI</strong> with
+              <strong> 100% live, interactive training</strong>. Get
+              industry-ready skills, real-world projects, and guidance to crack
+              <strong> 15–40+ LPA</strong> roles at top MNCs.
             </p>
+
             <LinkScroll to="features" offset={-100} spy smooth>
-              <Button icon="/images/zap.svg">Try it now</Button>
+              <Button icon="/images/zap.svg">
+                Start Your 55-Day Journey
+              </Button>
             </LinkScroll>
           </div>
 
@@ -26,7 +33,7 @@ const Hero = () => {
             <img
               src="/images/hero.png"
               className="size-1230 max-lg:h-auto"
-              alt="hero"
+              alt="CloudDevOpsHub hero section"
             />
           </div>
         </div>
