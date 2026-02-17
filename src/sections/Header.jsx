@@ -75,12 +75,7 @@ const Header = () => {
                     smooth
                     className="max-lg:hidden transition-transform duration-500 cursor-pointer"
                   >
-                    <img
-                      src="/images/xora.svg"
-                      width={160}
-                      height={55}
-                      alt="CloudDevOpsHub"
-                    />
+                  
                   </LinkScroll>
                 </li>
 
